@@ -7,6 +7,6 @@
 	<body>
 		<img src="images/troi.jpg" alt="Oops"/>
 		<h1>Hey! My name is Commander Troi.</h1><p>I am married to Riker and enjoy star gazing.</p>
-		<P>I have travelled back in time and joined this bootcamp in order to attemp to change the future for my unborn child</P>
+		<h2>I have travelled back in time and joined this bootcamp in order to attemp to change the future for my unborn child</h2>
 	</body>
 </html>
